@@ -48,9 +48,9 @@ modified: 20260827000000
 1. 使用 Vim 模式：打开 Obsidian 内置 **Vim 按键绑定**（设置 → 编辑器），再到 **设置 → Universal Cursor Hotkeys → Vim support** 点击 **Apply all**
 2. 使用 Emacs 风格快捷键：打开 **设置 → Universal Cursor Hotkeys**，对 Cursor movement / Editing / Other hotkeys 三组分别点击 **Apply recommended**
 
-![设置页 Vim support 与 Apply all](../../Resource/Images/Settings-610.png)
+![设置页 Vim support 与 Apply all](../../Resource/Images/Settings-web.png)
 
-如果你觉得这个插件对你有帮助，欢迎去 GitHub 点个 ⭐ Star 支持一下作者！
+如果你觉得这个插件对你有帮助，欢迎去 [GitHub](https://github.com/shichishima/obsidian-universal-cursor-hotkeys) 点个 ⭐ Star 支持一下作者！
 
 ---
 
